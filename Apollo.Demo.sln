@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apollo.Core.Demo.Second", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Apollo.Core.Demo.First", "Apollo.Core.Demo.First\Apollo.Core.Demo.First.csproj", "{23E776DE-5E3C-4A62-A5D6-C9D8694C4D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apollo.Framework.Demo", "Apollo.Framework.Demo\Apollo.Framework.Demo.csproj", "{C4E01497-BC2A-42BF-A96B-61B0285D0E94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{23E776DE-5E3C-4A62-A5D6-C9D8694C4D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E776DE-5E3C-4A62-A5D6-C9D8694C4D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E776DE-5E3C-4A62-A5D6-C9D8694C4D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4E01497-BC2A-42BF-A96B-61B0285D0E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E01497-BC2A-42BF-A96B-61B0285D0E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E01497-BC2A-42BF-A96B-61B0285D0E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E01497-BC2A-42BF-A96B-61B0285D0E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

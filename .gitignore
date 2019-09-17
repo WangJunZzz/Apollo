@@ -5,3 +5,5 @@
 /packages
 /Framework
 /.vs
+/Apollo.Framework.Demo/obj
+/Apollo.Framework.Demo/bin
